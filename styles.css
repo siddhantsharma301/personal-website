@@ -56,8 +56,6 @@ code,
 }
 
 ::selection {
-    /* Change highlight background color to black */
     background: rgb(29, 29, 33);
-    /* Change highlight text color to red */
     color: rgb(121, 160, 241);
   }
