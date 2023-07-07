@@ -32,7 +32,7 @@ h2 {
 
 a:link,
 a:visited {
-  color: blue;
+  color: rgb(21, 70, 175);
 }
 
 code,
@@ -54,3 +54,10 @@ code,
   font-weight: bold;
   margin-top: 0;
 }
+
+::selection {
+    /* Change highlight background color to black */
+    background: rgb(29, 29, 33);
+    /* Change highlight text color to red */
+    color: rgb(121, 160, 241);
+  }
