@@ -59,3 +59,10 @@ code,
     background: rgb(29, 29, 33);
     color: rgb(121, 160, 241);
   }
+
+
+.footer {
+    color: rgb(109, 109, 109);
+    font-style: italic;
+    text-align: right;
+}
