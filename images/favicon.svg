@@ -2,12 +2,13 @@
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Lora');
     .font {
-      font-family: "Lora", serif;
+      font-family: "Lora", serif, italic;
       font-size: 15px;
+      font-style: italic;
       fill: rgb(21, 70, 175);
       text-anchor: middle;
     }
   </style>
 
-  <text x="50%" y="50%" class="font">s</text>
+  <text x="45%" y="65%" class="font">s</text>
 </svg>
